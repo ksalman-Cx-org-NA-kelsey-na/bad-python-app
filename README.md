@@ -1,3 +1,4 @@
+[![Semgrep](https://github.com/ksalman-Cx-org-NA-kelsey-na/bad-python-app/actions/workflows/semgrep.yml/badge.svg)](https://github.com/ksalman-Cx-org-NA-kelsey-na/bad-python-app/actions/workflows/semgrep.yml)
 ## Setup
 
 ### Requisites
